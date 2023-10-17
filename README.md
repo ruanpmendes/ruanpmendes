@@ -10,7 +10,7 @@
 - 📫 Você me acha em **ruanmendes8710@gmail.com**
 
 - ❤️ Hobbies **Leitura, Investimentos, Futebol, Cinema**
-- 
+  
 <!---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
