@@ -1,15 +1,15 @@
-<h1> Hi, my name's Ruan 🧑🏻‍💻</h1>
+<h1> Olá, meu nome é Ruan 🧑🏻‍💻</h1>
 
-**`Data Analyst`**
+**`Analista de Dados`**
 
-- 🚀 Transitioning to Data Analysis & BI, focusing on turning raw data into strategic business insights.
-- 🧹 Passionate about data cleaning and wrangling — I enjoy turning messy data into valuable information.
-- 💡 An Analyst who codes: leveraging my technical background to automate tasks and build deeper analyses.
-- 🏗️ Building scalable Data Models (Star Schema) and SQL database structures.
-- 🎓 Graduated in Systems Analysis and Development.
+- 🚀 Em transição para Análise de Dados & BI, focado em transformar dados brutos em insights estratégicos de negócios.
+- 🧹 Apaixonado por limpeza e tratamento de dados — gosto de transformar dados desestruturados em informações valiosas.
+- 💡 Um Analista que programa: utilizando minha bagagem técnica para automatizar tarefas e construir análises mais profundas.
+- 🏗️ Construindo Modelos de Dados escaláveis (Star Schema) e estruturas de banco de dados SQL.
+- 🎓 Formado em Análise e Desenvolvimento de Sistemas.
 
           
-## 💻 Tech Stack:
+## 💻 Stacks:
 <div style="display: inline_block"><br>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="35">
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="35">
@@ -25,9 +25,10 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="35">
 </div>
 
-## 🌐 Socials:
+## 🌐 Redes Sociais:
 <div align="start"> 
 <a href="https://instagram.com/ruan.m_04" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E34F26?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href = "mailto:ruanmendes8710@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/ruan--mendes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank">
 </a> 
+</div>
