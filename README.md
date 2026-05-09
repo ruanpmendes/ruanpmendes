@@ -2,7 +2,7 @@
 
 **`Analista de Dados`**
 
-- 🚀 Em transição para Análise de Dados & BI, focado em transformar dados brutos em insights estratégicos de negócios.
+- 🚀 Analista de Dados, focado em transformar dados brutos em insights estratégicos de negócios.
 - 🧹 Apaixonado por limpeza e tratamento de dados — gosto de transformar dados desestruturados em informações valiosas.
 - 💡 Um Analista que programa: utilizando minha bagagem técnica para automatizar tarefas e construir análises mais profundas.
 - 🏗️ Construindo Modelos de Dados escaláveis (Star Schema) e estruturas de banco de dados SQL.
